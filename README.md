@@ -6,9 +6,9 @@ In this project I've been working with making train schedules using the genetic 
 
 - trains.py contains design functions to calculate fitness and visualize solutions.
 
-- genetic.py contains the implemented genetic algorithm
+- genetic.py contains the implemented genetic algorithm.
 
-- enfri.py contains the implemented simulated annealing algorithm
+- enfri.py contains the implemented simulated annealing algorithm..
 
 - main.py contains functions to do all the plots in the report/presentation
 
